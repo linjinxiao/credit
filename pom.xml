@@ -61,8 +61,8 @@
 		<!-- spring end -->
 
 	</dependencies>
-
-	<!--  <distributionManagement>
+	
+	<distributionManagement>
 		<repository>
 			<id>releases</id>
 			<name>Release Repository</name>
@@ -78,6 +78,6 @@
             </url>
 			<uniqueVersion>true</uniqueVersion>
 		</snapshotRepository>
-	</distributionManagement>-->
+	</distributionManagement>
 	
 </project>
